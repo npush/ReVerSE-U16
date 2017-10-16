@@ -13,6 +13,11 @@ SPEC256: http://www.emulatronia.com/emusdaqui/spec256/download-eng.htm
 
 [![ReVerSE-U16 FPGA SoftCore - Spec256 (build 20170604)](http://img.youtube.com/vi/5JCH4aDUbvE/0.jpg)](https://www.youtube.com/watch?v=5JCH4aDUbvE)
 
+build 20171015:
+- добавлена поддержка Gamepad "Game Master G2"
+- bright 0 для бордюра
+- F1 Joystick on/off
+
 build 20170604:
 - 1 CPU GFX_Z80 вместо восьми T80
 - F2 = режим 256c
