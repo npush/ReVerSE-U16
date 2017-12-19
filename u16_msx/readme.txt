@@ -5,7 +5,7 @@
 2) Запишите на неё первым файлом bios_m2p.rom из архива sd.zip
 3) Запишите остальные файлы из архива sd.zip
 4) Подключите к плате ReVerSE-U16 кабель HDMI, USB клавиатуру, аудио (используйте модуль https://github.com/mvvproject/ReVerSE-U16/tree/master/u16_board/modules/audio) и включите питание платы
-5) Откройте в Quartus Programmer файл u16_msx20170330.jic
+5) Откройте в Quartus Programmer файл .jic
 6) Запрограммируйте ReVerSE-U16 и отключите питание ReVerSE-U16
 7) Вставте SD карту в ReVerSE-U16 и включите питание
 8) Для запуска SYMBOS наберите symb и нажмите ENTER

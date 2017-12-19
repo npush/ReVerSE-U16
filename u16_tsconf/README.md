@@ -1,5 +1,10 @@
 # TS-Conf
 
++ K-Mouse Turbo
++ TurboSound 2x ym2149
++ SAA1099 
+
+
 Поддержка проекта: http://forum.tslabs.info/index.php
 
 Также тема обсуждения: http://zx-pk.ru/showthread.php?t=23528
